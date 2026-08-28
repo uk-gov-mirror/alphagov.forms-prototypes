@@ -11,7 +11,7 @@
     "@lfdebrux/nunjucks-markdown": "github:lfdebrux/govuk-prototype-kit-nunjucks-markdown-plugin#v0.0.3",
     "govuk-frontend": "6.1.0",
     "govuk-markdown": "^0.4.0",
-    "govuk-prototype-kit": "13.20.0",
+    "govuk-prototype-kit": "13.20.4",
     "jquery": "^3.6.4",
     "marked": "^4.2.12",
     "notifications-node-client": "^8.0.0"
